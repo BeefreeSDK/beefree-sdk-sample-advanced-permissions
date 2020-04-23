@@ -1,0 +1,172 @@
+{
+  "rows": {
+    "behaviors": {
+      "canSelect": false
+    }
+  },
+  "tabs": {
+    "settings": {
+      "show": false
+    },
+    "content": {
+      "show": true,
+      "locked": false
+    },
+    "rows": {
+      "show": true,
+      "locked": true
+    }
+  },
+  "content": {
+    "image": {
+      "behaviors": {
+        "canSelect": true,
+        "canAdd": false,
+        "canViewSidebar": true,
+        "canClone": false,
+        "canMove": false,
+        "canDelete": false
+      },
+      "properties": {
+        "imageWidth": {
+          "show": false
+        },
+        "textAlign": {
+          "show": false
+        },
+        "dynamicImage": {
+          "show": false
+        },
+        "imageSelector": {
+          "locked": false,
+          "show": true
+        },
+        "inputText": {
+          "show": false
+        },
+        "link": {
+          "show": false
+        },
+        "padding": {
+          "show": false
+        },
+        "hideOnMobile": {
+          "show": false
+        }
+      }
+    },
+    "button": {
+      "behaviors": {
+        "canSelect": true,
+        "canAdd": false,
+        "canViewSidebar": true,
+        "canClone": false,
+        "canMove": false,
+        "canDelete": false
+      },
+      "properties": {
+        "link": {
+          "locked": true,
+          "show": true
+        },
+        "buttonWidth": {
+          "locked": true,
+          "show": true
+        },
+        "padding": {
+          "locked": true,
+          "show": true
+        },
+        "backgroundColor": {
+          "locked": true,
+          "show": true
+        },
+        "textColor": {
+          "locked": true,
+          "show": true
+        },
+        "textAlign": {
+          "locked": true,
+          "show": true
+        },
+        "buttonLineHeight": {
+          "locked": true,
+          "show": true
+        },
+        "borderRadius": {
+          "locked": true,
+          "show": true
+        },
+        "contentPadding": {
+          "locked": true,
+          "show": true
+        },
+        "border": {
+          "locked": true,
+          "show": true
+        },
+        "hideOnMobile": {
+          "locked": true,
+          "show": true
+        }
+      }
+    },
+    "text": {
+      "behaviors": {
+        "canSelect": true,
+        "canAdd": false,
+        "canViewSidebar": true,
+        "canClone": false,
+        "canMove": false,
+        "canDelete": false
+      },
+      "properties": {
+        "textColor": {
+          "locked": true,
+          "show": true
+        },
+        "linkColor": {
+          "locked": true,
+          "show": true
+        },
+        "lineHeight": {
+          "locked": true,
+          "show": true
+        },
+        "padding": {
+          "locked": true,
+          "show": true
+        },
+        "hideOnMobile": {
+          "locked": true,
+          "show": true
+        }
+      }
+    },
+    "divider": {
+      "behaviors": {
+        "canViewSidebar": false
+      }
+    },
+    "social": {
+      "behaviors": {
+        "canViewSidebar": false
+      }
+    },
+    "video": {
+      "behaviors": {
+        "canViewSidebar": false
+      }
+    },
+    "html": {
+      "behaviors": {
+        "canViewSidebar": false
+      }
+    },
+    "dynamic": {
+      "behaviors": {
+        "canViewSidebar": false
+      }
+    }
+  }
+}
