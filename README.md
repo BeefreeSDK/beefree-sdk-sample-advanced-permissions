@@ -9,7 +9,7 @@ The following templates demonstrate a wide range of roles but can be customized 
 
 ### The copywriter
 
-This template gives the end-user permission to edit text and images but disables all other behaviors and settings. This skill-based role is for people in an organization that only need to touch copy for editing or translation purposes. Copy the contents of `copywriter.json` into the advancedPermissions variable of your bee config to enable the following behaviors:
+This template gives the end-user permission to edit text and images but disables all other behaviors and settings. This skill-based role is for people in an organization that only need to touch copy for editing or translation purposes. Copy the contents of `copywriter.json` into the `advancedPermissions` variable of your bee config to enable the following behaviors:
 
 -   hide any action that doesn’t involve working on the copy of an email or page.
     
@@ -22,7 +22,7 @@ This template gives the end-user permission to edit text and images but disables
 
 ### The file manager
 
-This template limits how users upload and manage images and files inside the plugin; to select pre-approved images and files uploaded by “admin” users. Copy the contents of `filemanager.json` into the advancedPermissions variable of your bee config to enable the following behaviors:
+This template limits how users upload and manage images and files inside the plugin; to select pre-approved images and files uploaded by “admin” users. Copy the contents of `filemanager.json` into the `advancedPermissions` variable of your bee config to enable the following behaviors:
 
 -   disabling drag-and-drop of images onto the stage;
     
