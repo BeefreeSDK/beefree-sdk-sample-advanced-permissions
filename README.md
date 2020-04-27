@@ -22,7 +22,7 @@ This template gives the end-user permission to edit text and images but disables
 
 ### The file manager
 
-This template limits how users upload and manage images and files inside the plugin; to select pre-approved images and files uploaded by “admin” users. Copy the contents of `filemanager.json` into the `advancedPermissions` variable of your bee config to enable the following behaviors:
+This template limits how users upload and manage images and files inside the plugin; to select pre-approved images and files uploaded by “admin” users. Copy the contents of `fileManager.json` into the `advancedPermissions` variable of your bee config to enable the following behaviors:
 
 -   disabling drag-and-drop of images onto the stage;
     
