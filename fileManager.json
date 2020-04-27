@@ -1,0 +1,8 @@
+{
+  "components": {
+    "filePicker": {
+      "canUpload": false,
+      "maxUploadFileSize": 1048576
+    }
+  }
+}
