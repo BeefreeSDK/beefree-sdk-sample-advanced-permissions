@@ -2,7 +2,14 @@
   "components": {
     "filePicker": {
       "canUpload": false,
-      "maxUploadFileSize": 1048576
+      "maxUploadFileSize": 1048576,
+      "canChangeImage": true,
+      "canApplyEffects": false,
+      "canCreateFolder": false,
+      "canDeleteFolder": false,
+      "canDeleteFile": false,
+      "canImportFile": false,
+      "canSearchFreePhotos": false,
     }
   }
 }
